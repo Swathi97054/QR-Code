@@ -22,9 +22,5 @@ display(Image("url_qrcode.png"))
 
 print(qr.data_list)
 
-#Output generates QR Code
-
-
-![url_qrcode](https://github.com/user-attachments/assets/298a0f39-444b-4424-b9a5-55c308b87089)
 
 
