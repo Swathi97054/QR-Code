@@ -3,10 +3,10 @@
 ##  Overview  
 This project demonstrates how to generate QR codes using Python in a Jupyter Notebook. It likely covers the creation of QR codes for URLs or custom text content, optionally with customization for colors, error correction, and output formats (such as PNG or SVG).This script take a link of any URL and generate a QR code corresponding to it.
 
-## Prerequisites
+### Prerequisites
 Python 3 and above versions
 
-## Library Used
+### Library Used
 qrcode and IPython
 
 ---
@@ -19,7 +19,7 @@ qrcode and IPython
 
 ##  Setup & Usage Guide
 
-1. **Clone the repository**  
+1. Clone the repository
    ```bash
    git clone https://github.com/Swathi97054/QR-Code.git
    cd QR-Code/"QR Code"
